@@ -3,5 +3,5 @@
   <project name="fraggel/android_kernel_jiayu_s3" path="kernel" remote="github" revision="cm11.0" />
   <project name="fraggel/android_device_jiayu_s3" path="device/jiayu/s3" remote="github" revision="cm11.0" />
   <project name="fraggel/android_vendor_jiayu_s3" path="vendor/jiayu/s3" remote="github" revision="cm11.0" />
-  <project name="fraggel/android_hardwar_mediatek" path="hardware/mtk" remote="github" revision="cm11.0" />
+  <project name="fraggel/android_hardware_mediatek" path="hardware/mtk" remote="github" revision="cm11.0" />
 </manifest>
